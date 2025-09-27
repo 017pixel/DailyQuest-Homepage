@@ -1,27 +1,27 @@
 # DailyQuest Homepage
 
-This is the official homepage for the DailyQuest application, a gamified to-do list and habit tracker that turns your life into an epic RPG.
+Dies ist die offizielle Homepage für die DailyQuest-Anwendung, eine gamifizierte To-Do-Liste und ein Gewohnheits-Tracker, der dein Leben in ein episches Rollenspiel verwandelt.
 
-## Description
+## Beschreibung
 
-DailyQuest helps you to stay motivated and organized by transforming your daily tasks into quests. You can level up your character, earn gold, and buy new equipment to improve your stats. The app is designed for people who want to make their lives more productive and fun.
+DailyQuest hilft dir, motiviert und organisiert zu bleiben, indem es deine täglichen Aufgaben in Quests verwandelt. Du kannst deinen Charakter aufleveln, Gold verdienen und neue Ausrüstung kaufen, um deine Werte zu verbessern. Die App ist für Leute gedacht, die ihr Leben produktiver und unterhaltsamer gestalten wollen.
 
-## Features
+## Funktionen
 
--   **Level-Up System:** Complete daily quests to gain experience points (Mana) and level up your character.
--   **Dynamic Stats:** Improve your character's attributes like strength, endurance, and focus by completing real-life exercises.
--   **Focus Module:** Train your concentration with a built-in timer and grow a digital forest.
--   **Shop:** Use your earned gold to buy new weapons and armor to boost your stats.
--   **Achievements:** Unlock achievements for reaching your goals.
--   **Weight Tracker:** Keep track of your weight with a simple chart.
+-   **Level-Up-System:** Schließe tägliche Quests ab, um Erfahrungspunkte (Mana) zu sammeln und deinen Charakter aufzuleveln.
+-   **Dynamische Werte:** Verbessere die Attribute deines Charakters wie Stärke, Ausdauer und Fokus durch das Erledigen von realen Übungen.
+-   **Fokus-Modul:** Trainiere deine Konzentration mit einem eingebauten Timer und lasse einen digitalen Wald wachsen.
+-   **Shop:** Nutze dein verdientes Gold, um neue Waffen und Rüstungen zu kaufen und deine Werte zu verbessern.
+-   **Erfolge:** Schalte Erfolge für das Erreichen deiner Ziele frei.
+-   **Gewichts-Tracker:** Verfolge dein Gewicht mit einem einfachen Diagramm.
 
 ## Screenshots
 
-| Character                                       | Daily Quests                                  | Focus Forest                                    |
+| Charakter                                       | Tägliche Quests                                  | Fokus-Wald                                    |
 | ----------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
-| ![Character](Screenshots/Character_Main.JPG) | ![Daily Quests](Screenshots/Daily_Quest.JPG) | ![Focus Forest](Screenshots/Fokus_Wald.JPG) |
+| ![Charakter](Screenshots/Character_Main.JPG) | ![Tägliche Quests](Screenshots/Daily_Quest.JPG) | ![Fokus-Wald](Screenshots/Fokus_Wald.JPG) |
 
-## Tech Stack
+## Tech-Stack
 
 -   HTML5
 -   CSS3
@@ -29,19 +29,19 @@ DailyQuest helps you to stay motivated and organized by transforming your daily 
 
 ## Installation
 
-To use the DailyQuest app, you don't need to install anything. It's a web-based application that you can access directly in your browser.
+Um die DailyQuest-App zu nutzen, musst du nichts installieren. Es ist eine webbasierte Anwendung, auf die du direkt in deinem Browser zugreifen kannst.
 
-1.  Open the [DailyQuest Homepage](https://017pixel.github.io/DailyQuest-Homepage/).
-2.  Click on the "Zur App & Anleitung" button.
-3.  Follow the on-screen instructions to add the app to your home screen for easy access.
+1.  Öffne die [DailyQuest Homepage](https://017pixel.github.io/DailyQuest-Homepage/).
+2.  Klicke auf den "Zur App & Anleitung"-Button.
+3.  Folge den Anweisungen auf dem Bildschirm, um die App für einen einfachen Zugriff zu deinem Startbildschirm hinzuzufügen.
 
-## Usage
+## Benutzung
 
-1.  **Set up your character:** Define your goals and set the difficulty.
-2.  **Complete your daily quests:** Finish your tasks and collect rewards.
-3.  **Watch your character grow:** Track your improved stats and manage your inventory.
-4.  **Get stronger:** Invest your gold in powerful equipment to become even better.
+1.  **Richte deinen Charakter ein:** Definiere deine Ziele und lege den Schwierigkeitsgrad fest.
+2.  **Schließe deine täglichen Quests ab:** Erledige deine Aufgaben und sammle Belohnungen.
+3.  **Beobachte das Wachstum deines Charakters:** Verfolge deine verbesserten Werte und verwalte dein Inventar.
+4.  **Werde stärker:** Investiere dein Gold in mächtige Ausrüstung, um noch besser zu werden.
 
-## License
+## Lizenz
 
-This project is licensed under the MIT License.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert.
