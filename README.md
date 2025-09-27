@@ -42,6 +42,3 @@ Um die DailyQuest-App zu nutzen, musst du nichts installieren. Es ist eine webba
 3.  **Beobachte das Wachstum deines Charakters:** Verfolge deine verbesserten Werte und verwalte dein Inventar.
 4.  **Werde stärker:** Investiere dein Gold in mächtige Ausrüstung, um noch besser zu werden.
 
-## Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert.
